@@ -3,7 +3,7 @@
 - 👋  Hi, I’m Kevin Ha!
 - 👀  I’m interested in Data Science and **RStudio**
 - 🌱  I’m currently a MSc student in Business at *Western Norway University of Applied Sciences* or **HVL**
-- 📫 How to reach me: <a href="<https://www.linkedin.com/in/kevin-ha1998/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/kevin-ha1998">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:kha5785@gmail.com">![kha5785@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 <!---
